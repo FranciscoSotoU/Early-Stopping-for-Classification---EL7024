@@ -4,7 +4,8 @@ Autores: Diego Cabezas, Martín Moreno, Francisco Soto
 
 Intrucciones de uso:
 - El codigo fue desarrollado en Python 3.9
-- Se recomienda usar un entorno virtual para la ejecución del código
+- Se recomienda usar un entorno virtual para la ejecución del código, el comando al utilizar conda es el siguiente
+    '''conda create -n 'env-name' python=3.9'''
 -Para instalar las dependencias debe ejecutar el siguiente comando:
     '''pip install -r requirements.txt'''
 - Para ejecutar el código debe posicionarse en la carpeta del proyecto y ejecutar el siguiente comando:
