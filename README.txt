@@ -14,3 +14,6 @@ Intrucciones de uso:
         experiment.sh
 - El script anterior ejecutará el experimento base que se encuentra en el archivo src/base_experiment.py
 
+En la carpeta binary_experiment se encuentra el codigo para el experimento binario desarrollado en la primera entrega.
+En la carpeta hd_experiment se encuentra el codigo para el experimento del dataset heat disease desarrollado en la segunda entrega.
+

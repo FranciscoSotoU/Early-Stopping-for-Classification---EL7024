@@ -1,9 +1,11 @@
-python -u main.py \
-    --exp_name "experiment_2" \
+python -u src/main.py \
+    --data_path "datasets/hd_dataset.csv" \
+    --exp_type 1 \
+    --exp_name "experiment_1" \
     --seed 45 \
     --n_samples 1000 \
     --p 0.1 \
-    --hidden_dim 3 \
-    --lr 0.001 \
-    --epochs 10 \
-    --batch_size 100 \
+    --hidden_dim 40 \
+    --lr  0.2e-4 \
+    --epochs 1500 \
+    --batch_size 20 \
